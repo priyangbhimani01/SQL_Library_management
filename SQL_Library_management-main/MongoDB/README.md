@@ -28,7 +28,7 @@ This is a web-based Library Management System built using **Flask**, **MongoDB**
 1. **Clone this repo**
 
    ```bash
-   git clone https://github.com/Harmish5201/DBBD
+   git clone https://github.com/priyangbhimani01/DBBD
    cd task4
    ```
 
@@ -89,4 +89,4 @@ This is a web-based Library Management System built using **Flask**, **MongoDB**
 
 ## 🧑‍💻 Authors
 
-Created by Harmish Tanna & Priyang Bhimani.
+Created by Priyang Bhimani.
