@@ -30,7 +30,7 @@ This is a web-based Library Management System built using **Flask**, **PostgreSQ
 1. **Clone this repo**
 
    ```bash
-   git clone https://github.com/Harmish5201/DBBD
+   git clone https://github.com/priyangbhimani01/DBBD
    cd task2
    ```
 
@@ -100,4 +100,4 @@ This is a web-based Library Management System built using **Flask**, **PostgreSQ
 
 ## 🧑‍💻 Author
 
-Created by Harmish Tanna & Priyang Bhimani.
+Created by Priyang Bhimani.
