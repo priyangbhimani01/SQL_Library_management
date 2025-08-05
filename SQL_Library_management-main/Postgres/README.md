@@ -40,20 +40,6 @@ This is a web-based Library Management System built using **Flask**, **PostgreSQ
    pip install flask flask_sqlalchemy flask_cors python-dateutil psycopg2-binary
    ```
 
-3. **Create `config.ini` in root**
-
-   ```ini
-    [DB]
-    DB_NAME=postgres
-    DB_USER=admin
-    DB_PASSWORD=root
-    DB_HOST=127.0.0.1
-    DB_PORT=5432
-
-    [API]
-    GEMINI_API_KEY=AIzaSyAbZYfZ2DndbXt76PINdRRnlPM-0SVb3o8
-    GEMINI_API_URL=https://aistudio.google.com/app/apikey
-   ```
 
 4. **Create the database schema**
 
