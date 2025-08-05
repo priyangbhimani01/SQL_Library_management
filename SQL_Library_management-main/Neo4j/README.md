@@ -30,7 +30,7 @@ This is a web-based Library Management System built using **Flask**, **Neo4j**, 
 1. **Clone this repo**
 
    ```bash
-   git clone https://github.com/Harmish5201/DBBD
+   git clone https://github.com/priyangbhimani01/DBBD
    cd task3
    ````
 
@@ -90,4 +90,4 @@ This is a web-based Library Management System built using **Flask**, **Neo4j**, 
 
 ## 🧑‍💻 Author
 
-Created by Harmish Tanna & Priyang Bhimani.
+Created by Priyang Bhimani.
